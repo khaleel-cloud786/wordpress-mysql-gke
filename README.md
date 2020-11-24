@@ -1,1 +1,1 @@
-# wordpress-mysql-gke
+# Using Persistent Disks with WordPress and MySQL
